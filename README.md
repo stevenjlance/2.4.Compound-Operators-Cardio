@@ -1,6 +1,6 @@
 # Compound Operators Cardio
 
-Complete the tasks outlined 
+Complete the tasks outlined below!
 
 ## Tasks
 
